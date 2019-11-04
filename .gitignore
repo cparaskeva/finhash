@@ -9,6 +9,7 @@
 # Package Files
 *.jar
 !app/src/main/resources/lib/*.jar
+!finhash-core/java_dependencies/*
 
 # Maven
 target/
